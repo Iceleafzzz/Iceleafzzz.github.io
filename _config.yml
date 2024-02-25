@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yanzhe Wang"
+title                    : "Yanzhe Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "B.S. in Mathematics and Economics @ PKU"
@@ -62,7 +62,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # "t.me/Iceleafzzz"
+  telegram         : "t.me/Iceleafzzz"
   tumblr           : # Username
   twitter          : "YanzheWang7"  # Replace this with your X / Twitter handle
   vine             : # Username
