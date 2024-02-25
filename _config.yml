@@ -21,7 +21,7 @@ repository               : "Iceleafzzz/Iceleafzzz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yz_profile.png"
   name             : "Yanzhe Wang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : "Yanzhe Wang"
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +62,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "t.me/Iceleafzzz"
+  telegram         : # "t.me/Iceleafzzz"
   tumblr           : # Username
   twitter          : "YanzheWang7"  # Replace this with your X / Twitter handle
   vine             : # Username
