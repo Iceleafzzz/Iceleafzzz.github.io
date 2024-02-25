@@ -12,7 +12,7 @@ title                    : "Yanzhe Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "B.S. in Mathematics and Economics @ PKU"
-url                      : https://iceleafzzz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://iceleafzzz.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Iceleafzzz/Iceleafzzz.github.io"
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : "iceleafzzz"
   lastfm           : # Username
-  linkedin         : "Yanzhe Wang"
+  linkedin         : "yanzhe-wang"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
