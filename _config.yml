@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "B.S. in Mathematics and Economics @ PKU"
   location         : "Beijing, China"
-  employer         : "Peking University"
+  employer         : # "Peking University"
   uri              : # URL
   email            : "iceleafzzz@stu.pku.edu.cn" 
 
@@ -62,7 +62,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "https://t.me/iceleafzzz"
+  telegram         : # "https://t.me/iceleafzzz"
   tumblr           : # Username
   twitter          : "YanzheWang7"  # Replace this with your X / Twitter handle
   vine             : # Username
