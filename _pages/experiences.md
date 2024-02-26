@@ -7,7 +7,7 @@ author_profile: true
 
 ## Education
 
-+ B.S. in Statistics, Peking Univeristy, 2021 - 2025 (expected)
++ B.S. in Mathematics, Peking Univeristy, 2021 - 2025 (expected)
 + B.S. in Economics (Double Major), Peking University, 2022 - 2025 (expected)
 + High School Education, Shanghai High School, 2018 - 2021
 
