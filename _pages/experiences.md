@@ -5,6 +5,8 @@ permalink: /experiences/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## Education
 
 + B.S. in Mathematics, Peking Univeristy, 2021 - 2025 (expected)
