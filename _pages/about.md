@@ -15,4 +15,6 @@ I have a wide range of interests in Machine Learning and Quantitative Finance. P
 
 I have conducted research on high-frequency pricing models under the guidance of Prof. Ruixun Zhang, and have conducted empirical research on the volatility of options in the Chinese market under the guidance of Prof. Alan Anderson from NYU.
 
-I am a super Pokémon fan! 
+I am a super Pokémon fan! Check out [Pokémon](https://iceleafzzz.github.io/pokemon) for more information!
+
+You can learn more about me from my [CV](https://iceleafzzz.github.io/cv) and [experiences](https://iceleafzzz.github.io/experiences). Feel free to contact me if you have anything to chat!
