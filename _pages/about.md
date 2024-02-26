@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage! (Last edited in Feb. 2024)
 
-I am Yanzhe Wang (王彦喆), a junior student from [School of Mathematical Science](https://math.pku.edu.cn), [Peking University](https://pku.edu.cn), major in Mathematics and Applied Mathematics.
+I am Yanzhe Wang (王彦喆), a junior student from [School of Mathematical Sciences](https://www.math.pku.edu.cn), [Peking University](https://pku.edu.cn), major in Mathematics and Applied Mathematics.
 
 I have a wide range of interests in Machine Learning and Quantitative Finance. Previously, I have interned as a quantitative researcher at Tongdeng Capital and Lianhai Capital, and will be joining Jane Street as a quantitative trader intern in the upcoming summer of 2024. 
 
