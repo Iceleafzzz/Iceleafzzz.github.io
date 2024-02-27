@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research Works
 
-<b>Implied Volatility of Black-Scholes model and Corrado-Su model</b><br>
+<b>Prediction Error of Call Options Pricing in Chinese Market</b><br>
 with Alan Anderson<br>
 [Final Report](https://iceleafzzz.github.io/files/report_Alan.pdf) &nbsp;&nbsp;&nbsp;&nbsp;
 
