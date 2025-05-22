@@ -1,4 +1,15 @@
+---
+layout: archive
+title: "Scoreboard"
+permalink: /scoreboard/
+author_profile: true
+---
 
+{% include base_path %}
+
+{% for post in site.scoreboard reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 
