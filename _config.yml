@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yanzhe Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "B.S. in Mathematics and Economics @ PKU"
+description              : &description "M.S. in Finance @ Princeton"
 url                      : "https://iceleafzzz.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Iceleafzzz/Iceleafzzz.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "yz_profile.png"
   name             : "Yanzhe Wang"
   pronouns         : # example: "she/her"  
-  bio              : "B.S. in Mathematics and Economics @ PKU"
-  location         : "Beijing, China"
+  bio              : "M.S. in Finance @ Princeton"
+  location         : "Princeton, NJ, US"
   employer         : # "Peking University"
   uri              : # URL
-  email            : "iceleafzzz@stu.pku.edu.cn" 
+  email            : "iceleafzzz@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
