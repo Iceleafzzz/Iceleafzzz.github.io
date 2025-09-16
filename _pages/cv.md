@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a [link](https://iceleafzzz.github.io/files/YanzheWang_CV_(25.09).pdf) of my CV. (Last updated in Sep. 2025)
+Here is a [link](https://iceleafzzz.github.io/files/YanzheWang_CV_2509.pdf) of my CV. (Last updated in Sep. 2025)
